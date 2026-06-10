@@ -1,0 +1,8 @@
+baseURL: https://chandrashekaravula.github.io/
+locale: en-us
+title: Simple Tech Blog
+author: Chandra Sekhar Avula
+theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
